@@ -1,0 +1,8 @@
+{
+  "admins": {
+    "description": "管理员账号",
+    "type": "list",
+    "hint": "填写管理员账号，如: [123456, 789012]",
+    "default": []
+  }
+}
